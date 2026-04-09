@@ -103,7 +103,23 @@ Créer une plateforme éducative moderne, intuitive et évolutive permettant une
 │ ├── sel.php
 │ ├── select.php
 │ ├── selection.php
- ---
+├── /assets
+├── /ressource
+├── /assets
+├── /inscription
+│ ├── action.php
+│ ├── inscription.php
+├── /connection
+│ ├── admin_acceuil.php
+│ ├── deconnection.php
+│ ├── session_action.php
+| ├── session.php
+├── /back
+│ ├── admin_selection_action.php
+│ ├── admin_selection.php
+| ├── Gestio,_des_comptes_profils.php
+├── /js
+├── /css
 
 ## 👩‍💻 Auteur
 
