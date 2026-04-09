@@ -98,29 +98,30 @@ Créer une plateforme éducative moderne, intuitive et évolutive permettant une
 
 ## 📂 Structure du projet
 
+```
 /v2
 ├── index.php
 ├── /vitrine
-│ ├── sel.php
-│ ├── select.php
-│ ├── selection.php
+│   ├── sel.php
+│   ├── select.php
+│   ├── selection.php
 ├── /assets
 ├── /ressource
 ├── /inscription
-│ ├── action.php
-│ ├── inscription.php
+│   ├── action.php
+│   ├── inscription.php
 ├── /connection
-│ ├── admin_acceuil.php
-│ ├── deconnection.php
-│ ├── session_action.php
-│ ├── session.php
+│   ├── admin_acceuil.php
+│   ├── deconnection.php
+│   ├── session_action.php
+│   ├── session.php
 ├── /back
-│ ├── admin_selection_action.php
-│ ├── admin_selection.php
-│ ├── gestion_des_comptes_profils.php
+│   ├── admin_selection_action.php
+│   ├── admin_selection.php
+│   ├── gestion_des_comptes_profils.php
 ├── /js
 ├── /css
-
+```
 ---
 
 ## 👩‍💻 Auteur
