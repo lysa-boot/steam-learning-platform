@@ -97,6 +97,7 @@ Créer une plateforme éducative moderne, intuitive et évolutive permettant une
 ---
 
 ## 📂 Structure du projet
+
 /v2
 ├── index.php
 ├── /vitrine
@@ -105,7 +106,6 @@ Créer une plateforme éducative moderne, intuitive et évolutive permettant une
 │ ├── selection.php
 ├── /assets
 ├── /ressource
-├── /assets
 ├── /inscription
 │ ├── action.php
 │ ├── inscription.php
@@ -113,13 +113,15 @@ Créer une plateforme éducative moderne, intuitive et évolutive permettant une
 │ ├── admin_acceuil.php
 │ ├── deconnection.php
 │ ├── session_action.php
-| ├── session.php
+│ ├── session.php
 ├── /back
 │ ├── admin_selection_action.php
 │ ├── admin_selection.php
-| ├── Gestio,_des_comptes_profils.php
+│ ├── gestion_des_comptes_profils.php
 ├── /js
 ├── /css
+
+---
 
 ## 👩‍💻 Auteur
 
